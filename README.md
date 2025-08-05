@@ -31,6 +31,6 @@ Application folder: Replicability for application
 # ----------------------------
 
 This folder contains:
-- Data_applicazione.RData, the RData file containing the data;
+- Data_applicazione.RData, the RData file containing the data preprocessed. The original dataset is available https://www.istat.it/comunicato-stampa/andamento-meteo-climatico-in-italia-anni-2000-2009/;
 - K3.R, the R file for the replicability of the model estimated;
 - Omega_sampler_general_model_speed.R, the R function for the auxiliary process;
